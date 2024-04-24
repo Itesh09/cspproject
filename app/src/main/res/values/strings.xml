@@ -1,0 +1,41 @@
+<resources>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_network_demo">Network</string>
+    <string name="menu_database_demo">Database</string>
+    <string name="menu_preferences_demo">Preferences</string>
+    <string name="menu_notification_demo">Notification</string>
+    <string name="second">Fragmentの遷移テスト</string>
+    <string name="menu_ui_demo">UI</string>
+    <string name="menu_maps_demo">Maps</string>
+    <string name="app_name">Timeleo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="Home">Home</string>
+        <string name="menu_profile">Profile</string>
+        <string name="menu_schedule">Schedule</string>
+        <string name="menu_settings">Settings</string>
+        <string name="menu_logout">Logout</string>
+
+
+
+
+
+    <string name="menu_transform">Transform</string>
+    <string name="menu_reflow">Reflow</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="my_task">my task</string>
+    <string name="schedule_lobby">schedule lobby</string>
+    <string name="Tools">Tools</string>
+    <string name="Portfolio">Portfolio</string>
+    <string name="welcome">welcome</string>
+
+
+
+
+
+
+</resources>
